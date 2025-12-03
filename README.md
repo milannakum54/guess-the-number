@@ -1,2 +1,11 @@
-# guess-the-number
-A beginner-friendly Python project: guess the randomly generated number with hints for higher or lower.
+# Guess The Number
+
+A simple Python game where the user tries to guess a randomly generated number.
+
+## How to Run
+python guess.py
+
+## Features
+- Random number generation
+- Higher/Lower hints
+- Simple CLI interface
